@@ -54,3 +54,8 @@ pan card (score = 0.98420)
 --------time_for_execution-------
 
 The program classifier.py has certain thresholds defined within the program so only if the percentage match of an image with a particular category is more than a specific threshold for that category, only then it will display the result. These threshold values can be changed in the program as per the user requirement.
+NOTE:-
+THE LINKS TO MY RETRAINED GRAPH AND RETRAINED LABELS FILES ARE AS FOLLOWS:-
+https://www.dropbox.com/s/dudqhdkxsf6haks/retrained_graph.pb?dl=0
+https://www.dropbox.com/s/o5bhgz4uic0lvox/retrained_labels.txt?dl=0
+
